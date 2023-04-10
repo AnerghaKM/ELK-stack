@@ -1,1 +1,1 @@
-This has the learning resources from Udemy course - Complete Guide to Elastic Search
+This has the learning notes taking during the Udemy course - Complete Guide to Elastic Search
